@@ -1,6 +1,6 @@
 # PySpark_Practice
 
-# 🧪 PySpark Data Cleaning: Item_Fat_Content Standardization
+# 🧪 PySpark Data Cleaning: Big Mart Sales Standardization
 
 This repository contains a PySpark notebook for cleaning and standardizing the `Item_Fat_Content` column in a retail dataset. The goal is to normalize variations in the fat content labels using regular expressions and sort the data accordingly.
 
